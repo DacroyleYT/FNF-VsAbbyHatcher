@@ -9,7 +9,8 @@ You may be in danger! DUN DUN DUNNNNN!
 
 Also this thing is completely free. If you paid for it you definitely got scammed ngl.
 
-I'll open source this thing soon when this releases ;-;
+This mod is OPEN SOURCE on GitHub!!
+https://github.com/DacroyleYT/FNF-VsAbbyHatcher
 
 A little more info & credits:
 - This mod uses Psych Engine by ShadowMario
