@@ -1,5 +1,6 @@
-# Friday Night Funkin' - Psych Engine
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+# FNF - Vs Abby Hatcher
+BF and GF are going on a vacation, and need a hotel to stay in. They discover the Hatcher Palace Hotel, and thus meet Abby Hatcher, Fuzzly Catcher!<br />
+Originally made in 2022 with an exported copy of Psych Engine and eventually became this!
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
@@ -12,18 +13,22 @@ after it finishes, simply type `haxelib run hmm install` in order to install all
 
 if you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `Project.xml`
 
-inside `Project.xml`, you will find several variables to customize Psych Engine to your liking
+inside `Project.xml`, you will find several variables to customize Psych Engine and VAH to your liking
 
 to start you off, disabling Videos should be simple, simply Delete the line `"VIDEOS_ALLOWED"` or comment it out by wrapping the line in XML-like comments, like this `<!-- YOUR_LINE_HERE -->`
 
-same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file
+same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file (except Lua scripts are kinda important for this mod)
 
 ## Credits:
-* Shadow Mario - Programmer
-* RiverOaken - Artist
-* Yoshubs - Assistant Programmer
+* DacroyleYT - Creator
+* RayoMC95 - Secondary Artist
+* Rob Hoegee, Ryan Carlson, Macy Drouin, a bunch of others - Creators of 'Abby Hatcher'
+* Shadow Mario, RiverOaken, Yoshubs - Creators of Psych Engine
+* Abby Hatcher is owned by Spin Master. This project is not associated with or endorsed by them in any way.
 
 ### Special Thanks
+* RayoMC95 - New BGs and ab hat
+* Fuzzlyxx, Der, GamerBoyo - Support over the years
 * bbpanzu - Ex-Programmer
 * Yoshubs - New Input System
 * SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform
@@ -35,71 +40,15 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 * Nebula the Zorua - LUA JIT Fork and some Lua reworks
 _____________________________________
 
-# Features
-
-## Attractive animated dialogue boxes:
-
-![](https://user-images.githubusercontent.com/44785097/127706669-71cd5cdb-5c2a-4ecc-871b-98a276ae8070.gif)
-
-
-## Mod Support
-* Probably one of the main points of this engine, you can code in .lua files outside of the source code, making your own weeks without even messing with the source!
-* Comes with a Mod Organizing/Disabling Menu.
-
-
-## Atleast one change to every week:
-### Week 1:
-  * New Dad Left sing sprite
-  * Unused stage lights are now used
-### Week 2:
-  * Both BF and Skid & Pump does "Hey!" animations
-  * Thunders does a quick light flash and zooms the camera in slightly
-  * Added a quick transition/cutscene to Monster
-### Week 3:
-  * BF does "Hey!" during Philly Nice
-  * Blammed has a cool new colors flash during that sick part of the song
-### Week 4:
-  * Better hair physics for Mom/Boyfriend (Maybe even slightly better than Week 7's :eyes:)
-  * Henchmen die during all songs. Yeah :(
-### Week 5:
-  * Bottom Boppers and GF does "Hey!" animations during Cocoa and Eggnog
-  * On Winter Horrorland, GF bops her head slower in some parts of the song.
-### Week 6:
-  * On Thorns, the HUD is hidden during the cutscene
-  * Also there's the Background girls being spooky during the "Hey!" parts of the Instrumental
-
-## Cool new Chart Editor changes and countless bug fixes
-![](https://github.com/ShadowMario/FNF-PsychEngine/blob/main/docs/img/chart.png?raw=true)
-* You can now chart "Event" notes, which are bookmarks that trigger specific actions that usually were hardcoded on the vanilla version of the game.
-* Your song's BPM can now have decimal values
-* You can manually adjust a Note's strum time if you're really going for milisecond precision
-* You can change a note's type on the Editor, it comes with two example types:
-  * Alt Animation: Forces an alt animation to play, useful for songs like Ugh/Stress
-  * Hey: Forces a "Hey" animation instead of the base Sing animation, if Boyfriend hits this note, Girlfriend will do a "Hey!" too.
-
-## Multiple editors to assist you in making your own Mod
-![Screenshot_3](https://user-images.githubusercontent.com/44785097/144629914-1fe55999-2f18-4cc1-bc70-afe616d74ae5.png)
-* Working both for Source code modding and Downloaded builds!
-
-## Story mode menu rework:
-![](https://i.imgur.com/UB2EKpV.png)
-* Added a different BG to every song (less Tutorial)
-* All menu characters are now in individual spritesheets, makes modding it easier.
-
-## Credits menu
-![Screenshot_1](https://user-images.githubusercontent.com/44785097/144632635-f263fb22-b879-4d6b-96d6-865e9562b907.png)
-* You can add a head icon, name, description and a Redirect link for when the player presses Enter while the item is currently selected.
-
-## Awards/Achievements
-* The engine comes with 16 example achievements that you can mess with and learn how it works (Check Achievements.hx and search for "checkForAchievement" on PlayState.hx)
-
-## Options menu:
-* You can change Note colors, Delay and Combo Offset, Controls and Preferences there.
- * On Preferences you can toggle Downscroll, Middlescroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Flashing Lights, etc.
-
-## Other gameplay features:
-* When the enemy hits a note, their strum note also glows.
-* Lag doesn't impact the camera movement and player icon scaling anymore.
-* Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
-* You can reset your Score on Freeplay/Story Mode by pressing Reset button.
-* You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
+# Unique features (I added 'em myself, they're not in Psych Engine!)
+This mod uses Psych Engine 0.6.3 as a base, however I added some cool new features that make the mod even crazier!
+## SONG METADATA!!! (REAL!!)
+You can now add Song metadata in the Chart Editor! Just go to the "Metadata" tab and you can set the name of the song, composer, original composer, charter, Freeplay description and Freeplay song to use!<br />
+![Song Metadata tab in Chart Editor, showcasing fields for the Song name, Composer, Original composer, Charter, Freeplay description and Freeplay song](https://github.com/DacroyleYT/FNF-VsAbbyHatcher/blob/main/art/mdImages/metadataTabShowcase.png?raw=true)
+## COOL NEW FREEPLAY STUFF
+As mentioned in the Metadata part, you can now give descriptions to your Songs in Freeplay! (Inspired by SMB Funk Mix DX)<br />
+Every Song now also has a jingle from it that plays when selected in the menu! You can put it in the Metadata file, and if it doesn't exist, the game will just use the Song name.<br />
+![Screenshot of the VAH Freeplay Menu, showing a description of the song Fuzzly-Catcher that reads "A faithful remake of the Abby Hatcher title theme! Sit back, relax and sing along!". There are arrows pointing to the description and text on top of it reading "DESCRIPTIONS!!! :D"](https://github.com/DacroyleYT/FNF-VsAbbyHatcher/blob/main/art/mdImages/descriptionsShowcase.png?raw=true)
+## NEW CRASH HANDLER (in the works)
+I'm working on a Crash Handler that displays inside the game instead of a dialog! It's only activated by pressing C on the Title screen for now, idk how to make it activate when it actually crashes<br />
+![Custom crash screen for VAH inspired by the Gru's plan meme](https://github.com/DacroyleYT/FNF-VsAbbyHatcher/blob/main/art/mdImages/crashScreenShowcase.png?raw=true)
