@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Heh, you kept up very well!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "abby"
+		},
+		{
+			"expression": "talk",
+			"text": "Shall we sing again..?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "abby"
+		},
+		{
+			"expression": "excited",
+			"text": "bap skda!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "abby"
+		},
+		{
+			"expression": "excited",
+			"text": "This next one is more difficult!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "abby"
+		}
+	]
+}

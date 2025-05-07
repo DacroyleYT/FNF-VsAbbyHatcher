@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Abby danceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Abby danceRight"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "scared",
+			"indices": [],
+			"name": "Abby scared"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "cheer",
+			"indices": [],
+			"name": "Abby cheer"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/abbyDancin",
+	"position": [
+		-120,
+		-20
+	],
+	"healthicon": "abby",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		0,
+		122
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "Abby idleDance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "Abby idle",
+			"indices": [
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Abby left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Abby down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Abby up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Abby right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "fall",
+			"loop": true,
+			"name": "Abby fall"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/virtualPlane/Abby-VP",
+	"position": [
+		150,
+		350
+	],
+	"healthicon": "everybody",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		85,
+		170
+	],
+	"camera_position": [
+		-80,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

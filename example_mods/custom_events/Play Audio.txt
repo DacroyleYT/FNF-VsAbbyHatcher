@@ -1,0 +1,3 @@
+Audio play event by DacroyleYT. I made this for VAH song "Guess", where at the first part Abby whispers "It's peeled grapes" (Reference to the YT vid "What's squishy in the box?").
+Value 1 = Audio to play.
+Value 2 = Volume, default value is 1.

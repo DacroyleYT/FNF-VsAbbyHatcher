@@ -1,0 +1,131 @@
+{
+	"storyName": "Extra songs. Btw why did u put this in story??",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Bricks and Lifts (Old)",
+			"abby",
+			[
+				0,
+				64,
+				128
+			]
+		],
+		[
+			"Sunny (Old)",
+			"sunny",
+			[
+				137,
+				0,
+				122
+			]
+		],
+		[
+			"Destruction Dance (Old)",
+			"kailan",
+			[
+				70,
+				178,
+				215
+			]
+		],
+		[
+			"Starry Sky (Old)",
+			"abby",
+			[
+				0,
+				0,
+				158
+			]
+		],
+		[
+			"Limousine (Old)",
+			"bf&abby",
+			[
+				255,
+				153,
+				195
+			]
+		],
+		[
+			"Glitter Goo (Old)",
+			"flug",
+			[
+				255,
+				0,
+				227
+			]
+		],
+		[
+			"Vandalizer (Old)",
+			"ducc",
+			[
+				0,
+				152,
+				255
+			]
+		],
+		[
+			"Sneezin and Peepin (Legacy Mix)",
+			"harriet",
+			[
+				255,
+				0,
+				123
+			]
+		],
+		[
+			"Fuzztastic Wishing (Legacy Mix)",
+			"true",
+			[
+				0,
+				76,
+				255
+			]
+		],
+		[
+			"Other Hatcher (Legacy Mix)",
+			"ela",
+			[
+				255,
+				0,
+				123
+			]
+		],
+		[
+			"Virtual Plane (Legacy Mix)",
+			"everybody",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"thingy (Legacy Mix)",
+			"abby",
+			[
+				255,
+				180,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extra Songs"
+}

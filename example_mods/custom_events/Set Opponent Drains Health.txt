@@ -1,0 +1,3 @@
+ONLY WORKS IN FUZZLY-KEEPER OR
+ANY SONG WITH FuzzlyKeeperScript.lua
+Value 1: True, 1, False or 0

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Abby dead firstdeath"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Abby dead loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Abby dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/abby-dead",
+	"position": [
+		-120,
+		45
+	],
+	"healthicon": "abby",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		0,
+		122
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

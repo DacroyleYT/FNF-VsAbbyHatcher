@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright that's another mission in the books."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..Hm?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well hello there!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bep skda boop beep bepp"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Sure, I'd love to!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beap!"
+		}
+	]
+}

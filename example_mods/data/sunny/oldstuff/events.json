@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				85161.2903225808,
+				[
+					[
+						"Flash Image (Literally)",
+						"danumbers/3",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				85548.3870967743,
+				[
+					[
+						"Flash Image (Literally)",
+						"danumbers/2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				85935.4838709678,
+				[
+					[
+						"Flash Image (Literally)",
+						"danumbers/1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.45",
+						"0.09"
+					]
+				]
+			],
+			[
+				86322.5806451614,
+				[
+					[
+						"Flash Image (Literally)",
+						"danumbers/go!",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.12"
+					]
+				]
+			]
+		]
+	}
+}

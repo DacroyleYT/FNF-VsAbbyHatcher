@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="limousineRoad.png"><SubTexture name="moving road0000" x="0" y="0" width="1920" height="266" frameX="0" frameY="-13" frameWidth="1920" frameHeight="300" />
+<SubTexture name="moving road0001" x="0" y="266" width="1920" height="266" frameX="0" frameY="-13" frameWidth="1920" frameHeight="300" />
+<SubTexture name="moving road0002" x="0" y="532" width="1920" height="266" frameX="0" frameY="-13" frameWidth="1920" frameHeight="300" />
+</TextureAtlas>

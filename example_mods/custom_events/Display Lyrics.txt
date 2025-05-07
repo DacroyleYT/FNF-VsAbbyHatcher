@@ -1,0 +1,2 @@
+LYRICS EVENT by DacroyleYT
+Value 1 = Text to display.

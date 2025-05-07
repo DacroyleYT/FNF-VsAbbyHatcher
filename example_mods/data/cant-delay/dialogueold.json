@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ok, that might have been hard...",
+			"boxState": "normal",
+			"portrait": "abby",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "How about the most intense one I know?",
+			"boxState": "normal",
+			"portrait": "abby",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beebi deebi",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, but just this once more. Dinner will be ready soon.",
+			"boxState": "normal",
+			"portrait": "abby",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "boopi bap"
+		}
+	]
+}

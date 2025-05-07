@@ -1,0 +1,41 @@
+{
+	"storyName": "Abby Hatcher, Fuzzly Catcher",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "hotel",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Fuzzly-Catcher",
+			"abby",
+			[
+				255,
+				0,
+				227
+			]
+		],
+		[
+			"Splizzacular",
+			"abby",
+			[
+				255,
+				0,
+				227
+			]
+		]
+	],
+	"weekCharacters": [
+		"abby",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Abby's Week"
+}

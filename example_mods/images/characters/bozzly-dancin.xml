@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bozzly-dancin.png"><SubTexture name="Bozzly danceLeft0000" x="582" y="0" width="297" height="547" frameX="-237" frameY="-109" frameWidth="720" frameHeight="720" />
+<SubTexture name="Bozzly danceLeft0001" x="879" y="0" width="291" height="547" frameX="-240" frameY="-108" frameWidth="720" frameHeight="720" />
+<SubTexture name="Bozzly danceLeft0002" x="0" y="0" width="291" height="548" frameX="-240" frameY="-107" frameWidth="720" frameHeight="720" />
+<SubTexture name="Bozzly danceLeft0003" x="291" y="0" width="291" height="548" frameX="-240" frameY="-107" frameWidth="720" frameHeight="720" />
+<SubTexture name="Bozzly danceLeft0004" x="291" y="0" width="291" height="548" frameX="-240" frameY="-107" frameWidth="720" frameHeight="720" />
+<SubTexture name="Bozzly danceRight0000" x="582" y="548" width="297" height="540" frameX="-237" frameY="-116" frameWidth="720" frameHeight="720" />
+<SubTexture name="Bozzly danceRight0001" x="291" y="548" width="291" height="544" frameX="-240" frameY="-111" frameWidth="720" frameHeight="720" />
+<SubTexture name="Bozzly danceRight0002" x="0" y="548" width="291" height="546" frameX="-240" frameY="-109" frameWidth="720" frameHeight="720" />
+<SubTexture name="Bozzly danceRight0003" x="291" y="0" width="291" height="548" frameX="-240" frameY="-107" frameWidth="720" frameHeight="720" />
+<SubTexture name="Bozzly danceRight0004" x="291" y="0" width="291" height="548" frameX="-240" frameY="-107" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

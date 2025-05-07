@@ -1,0 +1,971 @@
+{
+	"song": {
+		"events": [
+			[
+				1000,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby"
+					]
+				]
+			],
+			[
+				1100,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny"
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby-geared"
+					]
+				]
+			],
+			[
+				1300,
+				[
+					[
+						"Change Character",
+						"1",
+						"pico"
+					]
+				]
+			],
+			[
+				1400,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf"
+					]
+				]
+			],
+			[
+				1500,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf-pixel-opponent"
+					]
+				]
+			],
+			[
+				2600,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby"
+					]
+				]
+			],
+			[
+				2700,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny"
+					]
+				]
+			],
+			[
+				2800,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby-geared"
+					]
+				]
+			],
+			[
+				2900,
+				[
+					[
+						"Change Character",
+						"1",
+						"pico"
+					]
+				]
+			],
+			[
+				3000,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf"
+					]
+				]
+			],
+			[
+				3100,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf-pixel-opponent"
+					]
+				]
+			],
+			[
+				4200,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby"
+					]
+				]
+			],
+			[
+				4300,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny"
+					]
+				]
+			],
+			[
+				4400,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby-geared"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Change Character",
+						"1",
+						"pico"
+					]
+				]
+			],
+			[
+				4600,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf"
+					]
+				]
+			],
+			[
+				4700,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf-pixel-opponent"
+					]
+				]
+			],
+			[
+				5800,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby"
+					]
+				]
+			],
+			[
+				5900,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny"
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby-geared"
+					]
+				]
+			],
+			[
+				6100,
+				[
+					[
+						"Change Character",
+						"1",
+						"pico"
+					]
+				]
+			],
+			[
+				6200,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf"
+					]
+				]
+			],
+			[
+				6300,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf-pixel-opponent"
+					]
+				]
+			],
+			[
+				7400,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby"
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny"
+					]
+				]
+			],
+			[
+				7600,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby-geared"
+					]
+				]
+			],
+			[
+				7700,
+				[
+					[
+						"Change Character",
+						"1",
+						"pico"
+					]
+				]
+			],
+			[
+				7800,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf"
+					]
+				]
+			],
+			[
+				7900,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf-pixel-opponent"
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby"
+					]
+				]
+			],
+			[
+				9100,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny"
+					]
+				]
+			],
+			[
+				9200,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby-geared"
+					]
+				]
+			],
+			[
+				9300,
+				[
+					[
+						"Change Character",
+						"1",
+						"pico"
+					]
+				]
+			],
+			[
+				9400,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf"
+					]
+				]
+			],
+			[
+				9500,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf-pixel-opponent"
+					]
+				]
+			],
+			[
+				10600,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby"
+					]
+				]
+			],
+			[
+				10700,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny"
+					]
+				]
+			],
+			[
+				10800,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby-geared"
+					]
+				]
+			],
+			[
+				10900,
+				[
+					[
+						"Change Character",
+						"1",
+						"pico"
+					]
+				]
+			],
+			[
+				11000,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf"
+					]
+				]
+			],
+			[
+				11100,
+				[
+					[
+						"Change Character",
+						"1",
+						"bf-pixel-opponent"
+					]
+				]
+			],
+			[
+				12400,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny"
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby-geared"
+					]
+				]
+			],
+			[
+				32400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				35600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Character",
+						"1",
+						"kai-lan"
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby-pjs"
+					]
+				]
+			],
+			[
+				50800,
+				[
+					[
+						"Change Character",
+						"1",
+						"abby"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Change Scroll Speed",
+						"1.7",
+						"1"
+					],
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				60800,
+				[
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny"
+					],
+					[
+						"PhillyGlowLua",
+						"1",
+						"ff0000, 00ff00, 0000ff"
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"PhillyGlowLua",
+						"1",
+						"ff0000, 00ff00, 0000ff"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"PhillyGlowLua",
+						"1",
+						"ff0000, 00ff00, 0000ff"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"PhillyGlowLua",
+						"1",
+						"ff0000, 00ff00, 0000ff"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					],
+					[
+						"PhillyGlowLua",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				84800,
+				[
+					[
+						"Screen Shake",
+						"",
+						"1, 0.05"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Screen Shake",
+						"",
+						"1, 0.05"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Set GF Speed",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny-droppin"
+					],
+					[
+						"Play Animation",
+						"drop",
+						"0"
+					]
+				]
+			],
+			[
+				94800,
+				[
+					[
+						"Change Character",
+						"1",
+						"kai-lan-drop"
+					],
+					[
+						"Play Animation",
+						"drop",
+						"0"
+					]
+				]
+			],
+			[
+				95400,
+				[
+					[
+						"Change Character",
+						"1",
+						"kai-lan"
+					]
+				]
+			],
+			[
+				97600,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				98000,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				98800,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				99200,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"0"
+					],
+					[
+						"Change Character",
+						"1",
+						"abby"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"0"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"0"
+					]
+				]
+			],
+			[
+				100400,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"0"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			],
+			[
+				101200,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			],
+			[
+				101600,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}

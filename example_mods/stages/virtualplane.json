@@ -1,0 +1,10 @@
+{
+	"directory": "virtualPlaneAssets",
+	"defaultZoom": 5,
+	"isPixelStage": false,
+	"hide_girlfriend": true,
+
+	"boyfriend": [20, -304],
+	"girlfriend": [0, 0],
+	"opponent": [-98, -320]
+}

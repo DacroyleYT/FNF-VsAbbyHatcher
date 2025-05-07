@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Dora bopLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Dora bopRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doraDancin",
+	"position": [
+		-100,
+		10
+	],
+	"healthicon": "dora",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		82,
+		228
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

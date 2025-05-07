@@ -1,0 +1,2 @@
+Value 1: Camera Zoom
+Value 2: idk add notes here

@@ -1,0 +1,50 @@
+{
+	"storyName": "Extras. THEY'RE SUPPOSED TO BE IN FREEPLAY!!!!!!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Other Hatcher",
+			"ela",
+			[
+				255,
+				0,
+				123
+			]
+		],
+		[
+			"Scatman",
+			"elvin",
+			[
+				255,
+				225,
+				0
+			]
+		],
+		[
+			"thingy",
+			"abby",
+			[
+				255,
+				180,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extra Songs"
+}

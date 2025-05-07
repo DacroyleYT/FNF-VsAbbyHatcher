@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Abby Left dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Abby Right dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "sad",
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "Abby bfmissed"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "scared",
+			"indices": [],
+			"name": "Abby scared"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "cheer",
+			"indices": [],
+			"name": "Abby cheer"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AbbyBumpin",
+	"position": [
+		-80,
+		30
+	],
+	"healthicon": "abby",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		0,
+		122
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

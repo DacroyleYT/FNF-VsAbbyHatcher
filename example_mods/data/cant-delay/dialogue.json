@@ -1,0 +1,47 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Ok, that might have been hard...",
+			"boxState": "normal",
+			"portrait": "abby",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "How about the most intense one I know?",
+			"boxState": "normal",
+			"portrait": "abby",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beebi deebi",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Ok, but just this once more. I gotta go soon, OK?",
+			"boxState": "normal",
+			"portrait": "abby",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "boopi bap!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Show me what you've got!"
+		}
+	]
+}

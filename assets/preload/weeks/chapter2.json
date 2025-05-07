@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Melvin",
+			"melvin",
+			[
+				0,
+				225,
+				255
+			]
+		],
+		[
+			"Guess",
+			"melvin",
+			[
+				170,
+				225,
+				85
+			]
+		],
+		[
+			"Alarm",
+			"melvin",
+			[
+				255,
+				225,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard, Fuzzlycore",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "Melvin's Slumber Party!",
+	"weekName": "Melvin's Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

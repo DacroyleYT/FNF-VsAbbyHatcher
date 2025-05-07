@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				28615.3846153846,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.92"
+					]
+				]
+			],
+			[
+				29423.0769230769,
+				[
+					[
+						"Set Opponent Drains Health",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				44269.2307692308,
+				[
+					[
+						"Set Opponent Drains Health",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				72923.0769230769,
+				[
+					[
+						"Change Scroll Speed",
+						"1.21",
+						"0.92"
+					]
+				]
+			],
+			[
+				73730.7692307692,
+				[
+					[
+						"Set Opponent Drains Health",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				87692.3076923076,
+				[
+					[
+						"Change Scroll Speed",
+						"1.331",
+						"0.92"
+					]
+				]
+			],
+			[
+				117230.769230769,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.92"
+					]
+				]
+			],
+			[
+				118153.846153846,
+				[
+					[
+						"Set Opponent Drains Health",
+						"false",
+						""
+					]
+				]
+			]
+		]
+	}
+}

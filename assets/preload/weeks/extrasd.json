@@ -1,0 +1,158 @@
+{
+	"storyName": "Extras. THEY'RE SUPPOSED TO BE IN FREEPLAY!!!!!!",
+	"difficulties": "Hard, FUZZLYCORE",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Sunny",
+			"sunny",
+			[
+				137,
+				0,
+				122
+			]
+		],
+		[
+			"Starry Sky",
+			"abby",
+			[
+				0,
+				0,
+				158
+			]
+		],
+		[
+			"Limousine",
+			"bf&abby",
+			[
+				255,
+				153,
+				195
+			]
+		],
+		[
+			"Glitter Goo",
+			"flug",
+			[
+				255,
+				0,
+				227
+			]
+		],
+		[
+			"Vandalizer",
+			"ducc",
+			[
+				0,
+				152,
+				255
+			]
+		],
+		[
+			"Sneezin and Peepin",
+			"harriet",
+			[
+				255,
+				0,
+				123
+			]
+		],
+		[
+			"Fuzztastic Wishing",
+			"true",
+			[
+				0,
+				76,
+				255
+			]
+		],
+		[
+			"Ugh",
+			"katie",
+			[
+				255,
+				131,
+				240
+			]
+		],
+		[
+			"Other Hatcher",
+			"ela",
+			[
+				255,
+				0,
+				123
+			]
+		],
+		[
+			"Scatman",
+			"elvin",
+			[
+				255,
+				225,
+				0
+			]
+		],
+		[
+			"Glitch",
+			"abby",
+			[
+				0,
+				225,
+				255
+			]
+		],
+		[
+			"Bean Blox",
+			"butterbean",
+			[
+				160,
+				173,
+				255
+			]
+		],
+		[
+			"Virtual Plane",
+			"everybody",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"thingy",
+			"abby",
+			[
+				255,
+				180,
+				255
+			]
+		],
+		[
+			"Eggnog",
+			"brian&frankie",
+			[
+				106,
+				255,
+				141
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extra Songs"
+}

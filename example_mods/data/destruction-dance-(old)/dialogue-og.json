@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-player",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Wow, didn't expect you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kailan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I thought I'd join in!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-player",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "That's great, we haven't seen you in a long time!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kailan",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "You guys make my heart feel super happy!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-player",
+			"boxState": "normal",
+			"expression": "hey",
+			"text": "That's what friends are for."
+		}
+	]
+}

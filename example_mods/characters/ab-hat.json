@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ab hat idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ab hat left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ab hat down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ab hat up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ab hat right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "crazy",
+			"loop": false,
+			"name": "ab hat FUZZYTRUBELCANTDEAY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ab_hat_by_RayoMC95",
+	"position": [
+		50,
+		130
+	],
+	"healthicon": "abby",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		0,
+		122
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

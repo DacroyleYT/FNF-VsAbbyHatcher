@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Melvin idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Melvin down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Melvin up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "faceless",
+			"indices": [],
+			"name": "It's Got A Face But No Face"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Melvin left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Melvin right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MelvinMelvinJr",
+	"position": [
+		470,
+		150
+	],
+	"healthicon": "melvin",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		227,
+		255
+	],
+	"camera_position": [
+		-320,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

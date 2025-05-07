@@ -1,0 +1,50 @@
+{
+	"position": [
+		-60,
+		-60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "abbygeared-dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Abby happy idle",
+			"loop_name": "Abby happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Abby confused",
+			"idle_name": "Abby confused idle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Abby excited",
+			"idle_name": "Abby excited idle"
+		}
+	]
+}

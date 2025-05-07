@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Princess Flug idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Princess Flug left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Princess Flug down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Princess Flug up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Princess Flug right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 15,
+			"name": "Princess Flug shooting glitter goo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PrincessFlugFNFassets",
+	"position": [
+		-130,
+		140
+	],
+	"healthicon": "flug",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		227
+	],
+	"camera_position": [
+		-50,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

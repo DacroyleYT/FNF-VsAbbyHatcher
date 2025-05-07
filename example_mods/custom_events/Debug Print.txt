@@ -1,0 +1,4 @@
+Debug Print event by DacroyleYT.
+Useful for error-like mods.
+
+Value 1 = Text to print.

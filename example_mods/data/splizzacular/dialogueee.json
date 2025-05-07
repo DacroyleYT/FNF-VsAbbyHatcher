@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Heh, you kept up pretty well!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait, what are you--"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "blep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OMG YOU\"'RE SQUISHING YOURSELF OR SOMETHING..."
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+		}
+	]
+}

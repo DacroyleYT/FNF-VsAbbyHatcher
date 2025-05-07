@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="salonroofbuildingwindows.png"><SubTexture name="windows flashin0000" x="0" y="0" width="2543" height="1026" frameX="-17" frameY="-374" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="windows flashin0001" x="0" y="1026" width="2543" height="1026" frameX="-17" frameY="-374" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="windows flashin0002" x="2543" y="0" width="2543" height="1026" frameX="-17" frameY="-374" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="windows flashin0003" x="2543" y="1026" width="2543" height="1026" frameX="-17" frameY="-374" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="windows flashin0004" x="0" y="2052" width="2543" height="1026" frameX="-17" frameY="-374" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="windows flashin0005" x="2543" y="2052" width="2543" height="1026" frameX="-17" frameY="-374" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="windows flashin0006" x="0" y="3078" width="2543" height="1026" frameX="-17" frameY="-374" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="windows flashin0007" x="2543" y="3078" width="2543" height="1026" frameX="-17" frameY="-374" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

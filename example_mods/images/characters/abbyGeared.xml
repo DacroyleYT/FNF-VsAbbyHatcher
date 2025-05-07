@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abbyGeared.png"><SubTexture name="Abby idle0000" x="2419" y="2764" width="306" height="663" frameX="-246" frameY="-46" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby idle0001" x="1367" y="2764" width="314" height="667" frameX="-239" frameY="-42" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby idle0002" x="3396" y="676" width="325" height="675" frameX="-231" frameY="-34" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby idle0003" x="0" y="2083" width="342" height="681" frameX="-214" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby idle0004" x="956" y="717" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby right0000" x="627" y="717" width="329" height="683" frameX="-217" frameY="-26" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby right0001" x="2510" y="2083" width="310" height="677" frameX="-223" frameY="-32" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby up0000" x="0" y="717" width="317" height="684" frameX="-186" frameY="-26" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby up0001" x="317" y="717" width="310" height="684" frameX="-198" frameY="-25" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby down0000" x="2725" y="2764" width="302" height="657" frameX="-227" frameY="-52" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby down0001" x="3027" y="2764" width="318" height="657" frameX="-216" frameY="-52" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby left0000" x="2053" y="2764" width="366" height="665" frameX="-173" frameY="-44" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby left0001" x="1681" y="2764" width="372" height="667" frameX="-175" frameY="-42" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby giggle0000" x="1496" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby giggle0001" x="1496" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0000" x="781" y="0" width="359" height="686" frameX="-197" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0001" x="1140" y="0" width="356" height="686" frameX="-200" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0002" x="1848" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0001" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0002" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0003" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0004" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0005" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0006" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0007" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0008" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0009" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0010" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0011" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0012" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0013" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0014" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0015" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0016" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0017" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0018" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0019" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0020" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0021" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0022" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0023" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0024" x="1848" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0025" x="3059" y="0" width="337" height="677" frameX="-219" frameY="-32" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0026" x="3059" y="677" width="324" height="668" frameX="-232" frameY="-41" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0027" x="3059" y="1345" width="324" height="668" frameX="-232" frameY="-41" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0028" x="3059" y="2013" width="324" height="668" frameX="-232" frameY="-41" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0029" x="3396" y="1351" width="335" height="672" frameX="-221" frameY="-37" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0030" x="0" y="1401" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0031" x="352" y="1401" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0032" x="704" y="1401" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0033" x="1056" y="1401" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0034" x="1408" y="1401" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby drinking grape juice0035" x="956" y="717" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby pre attack0000" x="3396" y="2023" width="286" height="672" frameX="-220" frameY="-37" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby pre attack0001" x="2200" y="0" width="507" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby attack0000" x="0" y="0" width="404" height="717" frameX="-160" frameY="-1" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby attack0001" x="404" y="0" width="377" height="700" frameX="-187" frameY="-1" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby hurt0000" x="3396" y="0" width="361" height="676" frameX="-187" frameY="-33" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby hurt0001" x="2200" y="682" width="358" height="682" frameX="-198" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby scared0000" x="2200" y="1364" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby scared0001" x="1415" y="2083" width="351" height="679" frameX="-205" frameY="-30" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby THE FUZZLY SPOTTER!!0000" x="1760" y="1401" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby THE FUZZLY SPOTTER!!0001" x="2707" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby sad0000" x="368" y="2764" width="333" height="668" frameX="-223" frameY="-41" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby sad0001" x="701" y="2764" width="333" height="668" frameX="-223" frameY="-41" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby sad0002" x="1034" y="2764" width="333" height="668" frameX="-223" frameY="-41" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dialogue happy0000" x="1766" y="2083" width="380" height="679" frameX="-176" frameY="-30" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dialogue happy0001" x="0" y="2764" width="368" height="676" frameX="-188" frameY="-33" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dialogue happy0002" x="956" y="717" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dialogue excited0000" x="342" y="2083" width="360" height="681" frameX="-190" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dialogue excited0001" x="702" y="2083" width="355" height="681" frameX="-201" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dialogue excited0002" x="2707" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dialogue confused0000" x="2146" y="2083" width="364" height="679" frameX="-192" frameY="-30" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dialogue confused0001" x="1057" y="2083" width="358" height="680" frameX="-198" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dialogue confused0002" x="2707" y="1364" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

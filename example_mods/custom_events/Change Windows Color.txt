@@ -1,0 +1,9 @@
+NOTICE: DOES NOT WORK
+
+Only works on stages "salonroof" and soon "hotelroof".
+Haven't tested "philly" yet but I doubt it works there.
+Value 1 = Color to change to (example: FF0000 for red,
+00FF00 for green, 0000FF for blue, FFFFFF for white,
+000000 for black.). 0 = random default color.
+Default colors: FF5050, FF9010, FFF080, 20FF20,
+2023FF, FF80FF

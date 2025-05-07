@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-geared",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is the underground workspace where the power plant and stuff is."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beppi skeppi"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-geared",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know, there was this video game that came out in the 80s..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-geared",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It had underground stuff, kinda like this place!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop be beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-geared",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah, the underground tune kinda sounded like this:"
+		}
+	]
+}

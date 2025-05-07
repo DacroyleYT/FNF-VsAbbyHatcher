@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Wow, didn't expect you!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-player"
+		},
+		{
+			"expression": "talk",
+			"text": "I thought I'd join in!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kailan"
+		},
+		{
+			"expression": "excited",
+			"text": "That's great, we haven't seen you in a long time!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-player"
+		},
+		{
+			"expression": "excited",
+			"text": "You guys make my heart feel super happy!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kailan"
+		},
+		{
+			"expression": "hey",
+			"text": "That's what friends are for.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-player"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kailan",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Sheesh, this dialogue is kinda cringe tbh. Maybe it should be changed"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Hol' up what are you doing here?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk. but i can confirm this dialog will end whenever someone says the p word"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "kailan",
+			"boxState": "normal",
+			"expression": "hey",
+			"text": "YOU MEAN PLAINRO--"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+change characters lol
+
+value 1: starting character
+value 2: character to change to
+
+EDIT: This is unused. It was originally going to
+be used for Childrens Dance but the fps couldnt
+be configured. So uhh yeah, it's unused.

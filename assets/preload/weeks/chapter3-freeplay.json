@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Fuzzly-Keeper",
+			"katie",
+			[
+				255,
+				128,
+				255
+			]
+		],
+		[
+			"Fuzzly-Keeper (BF Mix)",
+			"katie",
+			[
+				0,
+				127,
+				0
+			]
+		],
+		[
+			"Katie",
+			"katie",
+			[
+				255,
+				64,
+				196
+			]
+		],
+		[
+			"Grabber Machine",
+			"katie",
+			[
+				255,
+				0,
+				128
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard, Fuzzlycore",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Katie Sweeper, Fuzzly Keeper",
+	"weekName": "Katie's Week (Freeplay)",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

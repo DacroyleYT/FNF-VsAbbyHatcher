@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				78461.5384615384,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunny-droppin-old"
+					],
+					[
+						"Play Animation",
+						"drop",
+						"0"
+					]
+				]
+			],
+			[
+				80307.6923076923,
+				[
+					[
+						"Change Character",
+						"1",
+						"kai-lan-drop"
+					],
+					[
+						"Play Animation",
+						"drop",
+						"0"
+					]
+				]
+			],
+			[
+				81230.7692307692,
+				[
+					[
+						"Change Character",
+						"1",
+						"kai-lan"
+					],
+					[
+						"Object Play Animation",
+						"nickjrbg",
+						"fade"
+					],
+					[
+						"Object Play Animation",
+						"nickjrfg",
+						"fade"
+					]
+				]
+			]
+		]
+	}
+}

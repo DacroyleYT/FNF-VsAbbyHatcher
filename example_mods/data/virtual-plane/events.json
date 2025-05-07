@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				-1889.76377952756,
+				[
+					[
+						"Camera Follow Pos",
+						"128",
+						"72"
+					]
+				]
+			],
+			[
+				8976.37795275591,
+				[
+					[
+						"Play Audio",
+						"virtualplane/Areyoureadytoplay",
+						"1"
+					]
+				]
+			],
+			[
+				9094.48818897638,
+				[
+					[
+						"Display Lyrics",
+						"OK.",
+						""
+					]
+				]
+			],
+			[
+				10157.4803149606,
+				[
+					[
+						"Display Lyrics",
+						"Are you ready to play?",
+						""
+					]
+				]
+			],
+			[
+				11732.2834645669,
+				[
+					[
+						"Display Lyrics",
+						"'Cause if you don't do well here,",
+						""
+					]
+				]
+			],
+			[
+				13464.5669291339,
+				[
+					[
+						"Display Lyrics",
+						"You'll have to stay here forever...",
+						""
+					]
+				]
+			],
+			[
+				15472.4409448819,
+				[
+					[
+						"Display Lyrics",
+						"Alright, let's go.",
+						""
+					]
+				]
+			],
+			[
+				17007.874015748,
+				[
+					[
+						"Display Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67086.6141732283,
+				[
+					[
+						"Change Scroll Speed",
+						"1.12",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

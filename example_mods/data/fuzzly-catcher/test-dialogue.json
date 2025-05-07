@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is a test dialogue!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "As you can see I am showing tons of\\nanimations!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "Hold up Minecraft 1.18.2 is out?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beebi deebi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "Eh whatever. I usually play bedwars anyway."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait huh? What is that over there?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "BeapaeB"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "abby",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh okay."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "CAN WE JUST START THE SONG PLEASE IM GETTING HUNGRY LOL"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh what? This dialog might end as soon as someone says the S word"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "abby",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "YOU MEAN SUS"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dacro-cord.png">
+<SubTexture name="Dacro idle0000" x="0" y="0" width="256" height="492" frameX="-263" frameY="-90" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro idle0001" x="256" y="0" width="257" height="502" frameX="-263" frameY="-79" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro idle0002" x="513" y="0" width="256" height="520" frameX="-263" frameY="-62" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro idle0003" x="769" y="0" width="257" height="525" frameX="-263" frameY="-57" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro idle0004" x="1026" y="0" width="256" height="525" frameX="-263" frameY="-57" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro idle0005" x="1026" y="0" width="256" height="525" frameX="-263" frameY="-57" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro left0000" x="1282" y="0" width="266" height="518" frameX="-191" frameY="-64" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro left0001" x="0" y="525" width="264" height="521" frameX="-202" frameY="-61" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro left0002" x="264" y="525" width="263" height="522" frameX="-209" frameY="-60" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro down0000" x="527" y="525" width="261" height="508" frameX="-285" frameY="-129" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro down0001" x="788" y="525" width="259" height="515" frameX="-275" frameY="-118" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro down0002" x="1047" y="525" width="258" height="525" frameX="-275" frameY="-109" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro up0000" x="1305" y="525" width="261" height="540" frameX="-246" frameY="0" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro up0001" x="0" y="1065" width="261" height="531" frameX="-246" frameY="-10" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro up0002" x="261" y="1065" width="261" height="525" frameX="-246" frameY="-16" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro right0000" x="522" y="1065" width="267" height="514" frameX="-351" frameY="-69" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro right0001" x="789" y="1065" width="264" height="521" frameX="-331" frameY="-62" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro right0002" x="1053" y="1065" width="261" height="523" frameX="-322" frameY="-60" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro left miss0000" x="1282" y="0" width="266" height="518" frameX="-191" frameY="-64" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro left miss0001" x="1314" y="1065" width="305" height="523" frameX="-168" frameY="-60" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro left miss0002" x="0" y="1596" width="307" height="523" frameX="-164" frameY="-60" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro down miss0000" x="527" y="525" width="261" height="508" frameX="-285" frameY="-129" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro down miss0001" x="307" y="1596" width="290" height="521" frameX="-245" frameY="-110" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro down miss0002" x="597" y="1596" width="290" height="525" frameX="-245" frameY="-112" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro up miss0000" x="1305" y="525" width="261" height="540" frameX="-246" frameY="0" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro up miss0001" x="887" y="1596" width="316" height="520" frameX="-188" frameY="-30" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro up miss0002" x="1203" y="1596" width="316" height="525" frameX="-188" frameY="-22" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro right miss0000" x="522" y="1065" width="267" height="514" frameX="-351" frameY="-69" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro right miss0001" x="1519" y="1596" width="295" height="523" frameX="-284" frameY="-60" frameWidth="768" frameHeight="768" />
+<SubTexture name="Dacro right miss0002" x="0" y="2121" width="297" height="523" frameX="-287" frameY="-60" frameWidth="768" frameHeight="768" />
+</TextureAtlas>

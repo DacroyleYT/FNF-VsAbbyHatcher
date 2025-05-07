@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abby-dead.png"><SubTexture name="Abby dead firstdeath0000" x="0" y="0" width="361" height="699" frameX="-212" frameY="-10" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0001" x="361" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0002" x="713" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0003" x="713" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0004" x="713" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0005" x="713" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0006" x="713" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0007" x="713" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0008" x="713" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0009" x="713" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0010" x="1065" y="0" width="356" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0011" x="0" y="699" width="365" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0012" x="365" y="699" width="375" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0013" x="740" y="699" width="398" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0014" x="1421" y="0" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0015" x="1421" y="682" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0016" x="1826" y="0" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0017" x="1826" y="0" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0018" x="1826" y="0" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0019" x="1826" y="0" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0020" x="1826" y="0" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0021" x="1826" y="0" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0022" x="1826" y="0" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0023" x="1826" y="682" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0024" x="0" y="1381" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0025" x="405" y="1381" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead firstdeath0026" x="810" y="1381" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead loop0000" x="1215" y="1381" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead loop0001" x="1620" y="1381" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead loop0002" x="810" y="1381" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead loop0003" x="810" y="1381" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead loop0004" x="810" y="1381" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead loop0005" x="2231" y="0" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead confirm0000" x="2231" y="682" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby dead confirm0001" x="2231" y="1364" width="405" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

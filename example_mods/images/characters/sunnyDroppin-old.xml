@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sunnyDroppin.png"><SubTexture name="Sunny falling0000" x="0" y="0" width="360" height="603" frameX="-195" frameY="-49" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0001" x="0" y="0" width="360" height="603" frameX="-197" frameY="-29" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0002" x="0" y="0" width="360" height="603" frameX="-197" frameY="-20" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0003" x="0" y="0" width="360" height="603" frameX="-197" frameY="-29" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0004" x="0" y="0" width="360" height="603" frameX="-198" frameY="-62" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0005" x="0" y="0" width="360" height="603" frameX="-200" frameY="-143" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0006" x="0" y="0" width="360" height="603" frameX="-200" frameY="-237" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0007" x="0" y="0" width="360" height="603" frameX="-203" frameY="-390" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0008" x="0" y="0" width="360" height="603" frameX="-200" frameY="-600" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0009" x="0" y="0" width="360" height="603" frameX="-211" frameY="-860" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0010" x="0" y="0" width="360" height="603" frameX="-207" frameY="-1143" frameWidth="720" frameHeight="1920" />
+<SubTexture name="Sunny falling0011" x="360" y="0" width="360" height="485" frameX="-205" frameY="-1435" frameWidth="720" frameHeight="1920" />
+</TextureAtlas>

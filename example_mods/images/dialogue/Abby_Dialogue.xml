@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Abby_Dialogue.png"><SubTexture name="abby happy0000" x="690" y="0" width="350" height="653" frameX="-201" frameY="-14" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby happy0001" x="691" y="655" width="345" height="647" frameX="-203" frameY="-20" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby happy idle0000" x="1735" y="646" width="346" height="644" frameX="-202" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby excited0000" x="1036" y="655" width="349" height="647" frameX="-203" frameY="-20" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby excited0001" x="1735" y="0" width="348" height="646" frameX="-202" frameY="-21" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby excited idle0000" x="0" y="1306" width="346" height="644" frameX="-202" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby confused0000" x="0" y="0" width="343" height="655" frameX="-202" frameY="-12" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby confused0001" x="346" y="655" width="345" height="648" frameX="-203" frameY="-19" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby confused idle0000" x="346" y="1306" width="346" height="644" frameX="-202" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby scared0000" x="343" y="0" width="347" height="655" frameX="-201" frameY="-12" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby scared0001" x="0" y="655" width="346" height="651" frameX="-202" frameY="-16" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby scared idle0000" x="692" y="1306" width="346" height="644" frameX="-202" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby meh0000" x="1040" y="0" width="350" height="653" frameX="-201" frameY="-14" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby meh0001" x="1390" y="0" width="345" height="647" frameX="-203" frameY="-20" frameWidth="720" frameHeight="720" />
+<SubTexture name="abby meh idle0000" x="1038" y="1306" width="346" height="644" frameX="-202" frameY="-23" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

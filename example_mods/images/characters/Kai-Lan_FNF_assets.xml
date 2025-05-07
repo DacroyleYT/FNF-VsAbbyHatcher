@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Kai-Lan_FNF_assets.png"><SubTexture name="Kai-lan bopLeft0000" x="230" y="984" width="249" height="478" frameX="-247" frameY="-147" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan bopLeft0001" x="987" y="481" width="238" height="479" frameX="-253" frameY="-146" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan bopLeft0002" x="0" y="503" width="233" height="481" frameX="-255" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan bopLeft0003" x="233" y="503" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan bopLeft0004" x="233" y="503" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan bopRight0000" x="479" y="984" width="234" height="476" frameX="-261" frameY="-149" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan bopRight0001" x="0" y="984" width="230" height="479" frameX="-262" frameY="-146" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan bopRight0002" x="462" y="503" width="230" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan bopRight0003" x="233" y="503" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan bopRight0004" x="233" y="503" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan left0000" x="692" y="503" width="254" height="481" frameX="-229" frameY="-148" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan left0001" x="987" y="0" width="239" height="481" frameX="-240" frameY="-146" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan down0000" x="940" y="984" width="230" height="459" frameX="-277" frameY="-167" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan down0001" x="713" y="984" width="227" height="469" frameX="-280" frameY="-158" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan up0000" x="0" y="0" width="244" height="503" frameX="-265" frameY="-124" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan up0001" x="244" y="0" width="250" height="496" frameX="-263" frameY="-130" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan right0000" x="494" y="0" width="229" height="482" frameX="-298" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan right0001" x="1226" y="481" width="226" height="480" frameX="-289" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan HEY!!0000" x="723" y="0" width="264" height="482" frameX="-252" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan HEY!!0001" x="1226" y="0" width="250" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

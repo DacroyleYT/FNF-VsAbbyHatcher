@@ -1,0 +1,35 @@
+-- 5/1/2022 Release 1.0 --
+The mod's initial release
+
+-- 12/1/2024 Demo 1.9 --
+ADDED
+-More songs
+-Credits
+CHANGED
+-Some songs
+too lazy to type the rest but a lot has been done
+
+-- 1/15/2025 > 5/2/2025 Snapshot 05.02.25 --
+ADDED
+-Experimental Legacy Mode option, where if enabled will make the mod look and feel like v1.0
+-Unused menu BG assets are now used (Legacy Mode only)
+-Some old versions of songs are back, and added new Legacy mixes (Legacy Mode only)
+-Improvements for Roblox UI in Bean Blox
+-More languages like in newer Psych Engine versions (Work in progress)
+-Song metadata & Freeplay description support (this took FOR. EVER. to code in)
+	You can edit Song metadata in the Chart Editor in the new "Metadata" tab.
+-New crash handler, although it doesn't activate when the game crashes for now, you can activate it by pressing C in the Title Screen
+-NEW SONG: Fuzzly-Keeper (BF Mix)
+-New stage set inside the Hatcher Palace Hotel (used in Fuzzly-Keeper (BF Mix) and Katie)
+CHANGED
+-Text in mods menu now says something different when there are no mods, also reduced cursing
+-Mods menu has been moved to the Editors menu
+-New credits menu under construction, the game will crash if you go to it now but I'll fix that later
+-Game no longer crashes when you try to load a nonexistent Song like in newer Psych Engine versions
+-Songs in Freeplay now play a short jingle based on the song selected
+
+-- PLANNED CHANGES I'LL MAKE IN THE FUTURE --
+-Old style versions of Katie and Ela (Legacy Mode only)
+-Old style versions of modern stages, like the airship coming to Vandalizer (Legacy Mode only) yes, vandalizer will be on an airship because idk how to make the scene more epic (for now it's the underground stage as a placeholder)
+-Song Chef's Kiss (featuring me as Chef Jeff and probably Natarichan as Abby and Curly)
+-Planning to make this engine a separate FNF engine called Psychro because it's so cool

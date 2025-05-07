@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"notices/UnfinishedTextures",
+						"8"
+					]
+				]
+			],
+			[
+				145607.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145660.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145714.285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

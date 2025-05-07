@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<!--<define name="DEMO_BUILD" />-->
+	<define name="SNAPSHOT" />
+	<!-- _________________________ Application Settings _________________________ -->
+	<section if="DEMO_BUILD" unless="SNAPSHOT">
+		<app title="Friday Night Funkin' Vs Abby Hatcher (Game Jolt exclusive demo)" file="VsAbbyHatcher" packageName="com.dacroyleyt.fnfvah" package="com.dacroyleyt.fnfvah" main="Main" version="0.2.8" company="DacroyleYT" />
+	</section>
+	<section unless="DEMO_BUILD || SNAPSHOT">
+		<app title="Friday Night Funkin' Vs Abby Hatcher" file="VsAbbyHatcher" packageName="com.dacroyleyt.fnfvah" package="com.dacroyleyt.fnfvah" main="Main" version="0.2.8" company="DacroyleYT" />
+	</section>
+	<section if="SNAPSHOT" unless="DEMO_BUILD">
+		<app title="Friday Night Funkin' Vs Abby Hatcher SNAPSHOT" file="VsAbbyHatcher" packageName="com.dacroyleyt.fnfvah" package="com.dacroyleyt.fnfvah" main="Main" version="0.2.8" company="DacroyleYT" />
+	</section>
+	<!--Ya boy DacroyleYT obviously had to edit this thingy-->
+
+	<!--Switch Export with Unique ApplicationID and Icon-->
+	<set name="APP_ID" value="0x0100f6c013bbc050" />
+
+	<!-- NOTE TO SELF: DISABLE THIS IF ISSUES ARE FOUND -->
+	<haxedef name="LINC_LUA_RELATIVE_DYNAMIC_LIB"/> <!-- stable luas PUT AFTER FIRST LINE WITH APP NAME AND ETC -->
+
+	<!--The flixel preloader is not accurate in Chrome. You can use it regularly if you embed the swf into a html file
+		or you can set the actual size of your file manually at "FlxPreloaderBase-onUpdate-bytesTotal"-->
+	<!-- <app preloader="Preloader" resizable="true" /> -->
+	<app preloader="flixel.system.FlxPreloader" />
+
+	<!--Minimum without FLX_NO_GAMEPAD: 11.8, without FLX_NO_NATIVE_CURSOR: 11.2-->
+	<set name="SWF_VERSION" value="11.8" />
+
+	<!-- ____________________________ Window Settings ___________________________ -->
+
+	<!--These window settings apply to all targets-->
+	<window width="1280" height="720" fps="" background="#000000" hardware="true" vsync="false" />
+
+	<!--HTML5-specific-->
+	<window if="html5" resizable="true" />
+
+	<!--Desktop-specific-->
+	<window if="desktop" orientation="landscape" fullscreen="false" resizable="true" vsync="false"/>
+
+	<!--Mobile-specific-->
+	<window if="mobile" orientation="landscape" fullscreen="true" width="0" height="0" resizable="false"/>
+
+	<!--Switch-specific-->
+	<window if="switch" orientation="landscape" fullscreen="true" width="0" height="0" resizable="true" />
+
+	<!-- _____________________________ Path Settings ____________________________ -->
+
+	<set name="BUILD_DIR" value="export/debug" if="debug" />
+	<set name="BUILD_DIR" value="export/release" unless="debug" />
+	<set name="BUILD_DIR" value="export/32bit" if="32bits" />
+	<set name="BUILD_DIR" value="export/demo" if="DEMO_BUILD" />
+
+	<classpath name="source" />
+	
+	<!-- PSYCH ENGINE/VAH CUSTOMIZATION -->
+	<define name="MODS_ALLOWED" />
+	<define name="LUA_ALLOWED"  />
+	<define name="LANGUAGES_ALLOWED" unless="DEMO_BUILD" />
+	<define name="BRUNISH_ALLOWED" /> <!-- Delete this if you don't want Ze Digolishé Dogspek as a selectable language -->
+	<!--<define name="ACHIEVEMENTS_ALLOWED" /> -->
+	<define name="VIDEOS_ALLOWED" if="web || windows" />
+	<define name="PSYCH_WATERMARKS"/> <!-- DELETE THIS TO REMOVE WATERMARKS/DEV NAMES ON TITLE SCREEN -->
+	<define name="TITLE_SCREEN_EASTER_EGG" if="officialBuild"/> <!-- DELETE THE if="officialBuild" for enabling this on an unofficial build -->
+	<define name="CRASH_HANDLER" if="desktop release" />
+
+	<assets path="assets/preload" exclude="demoWeeks" unless="DEMO_BUILD" />
+	<assets path="assets/preload" rename="assets" exclude="*.ogg" if="web"/>
+	<assets path="assets/preload" rename="assets" exclude="*.mp3"  unless="web"/>
+	<section if="DEMO_BUILD">
+		<assets path="example_mods/songs/cant-delay" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/cant-delay" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/guess" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/guess" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/katie" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/katie" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/bean-blox" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/bean-blox" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/childrens-dance" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/childrens-dance" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/glitch" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/glitch" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/bricks-and-lifts" rename="example_mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/bricks-and-lifts" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/fuzzly-catcher-elect" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/fuzzly-catcher" exclude="fuzzly-catcher-elect.json" />
+		<assets path="example_mods/data/fuzzly-catcher" exclude="fuzzly-catcher-fuzzlycore.json" />
+		<assets path="example_mods/data/splizzacular" exclude="splizzacular-fuzzlycore.json" />
+
+		<assets path="example_mods/songs/fuzztastic-wishing" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/fuzztastic-wishing" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/glitter-goo" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/glitter-goo" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/limousine" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/limousine" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/sneezin-and-peepin" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/sneezin-and-peepin" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/sporting" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/sporting" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/starry-sky" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/starry-sky" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/sunny" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/sunny" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/ugh" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/ugh" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/vandalizer" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/vandalizer" rename="mods/data" exclude="*.json" />
+
+		<assets path="example_mods/songs/virtual-plane" rename="mods/songs" exclude="*.ogg" />
+		<assets path="example_mods/data/virtual-plane" rename="mods/data" exclude="*.json" />
+
+		<assets path="assets/songs/eggnog" rename="assets/songs" exclude="*.ogg" />
+		<assets path="assets/preload/data/eggnog" rename="assets/data" exclude="*.json" />
+
+		<!--<assets path="assets/preload/weeks" rename="assets/preload" exclude="*.json" />
+		<assets path="example_mods/images/DACROSTUFFDONTTOUCH" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images/danumbers" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images/dialogue" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images/discordlavvie" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images/oldmenus" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images/pixelUI" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images/roblox" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images/sunny_salon" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images/virtualPlaneAssets" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images/week5mod" rename="example_mods/images" exclude="*.png" />
+		<assets path="example_mods/images" exclude="*.pdn" />-->
+	</section>
+
+	<section if="TITLE_SCREEN_EASTER_EGG">
+		<assets path="assets/secrets" rename="assets" exclude="*.ogg" if="web"/>
+		<assets path="assets/secrets" rename="assets" exclude="*.mp3"  unless="web"/>
+	</section>
+
+	<!-- DONT ENABLE THIS -->
+	<!--<define name="CHECK_FOR_UPDATES" if="desktop officialBuild"/>-->
+
+	<!-- <define name="PRELOAD_ALL" /> -->
+	<define name="PRELOAD_ALL" unless="web" />
+	<define name="NO_PRELOAD_ALL" unless="PRELOAD_ALL"/>
+	
+	<library name="videos"        preload="true" />
+	<section if="PRELOAD_ALL">
+		<library name="songs"         preload="true" />
+		<library name="shared"        preload="true" />
+		<library name="week2"         preload="true" />
+		<library name="week3"         preload="true" />
+		<library name="week4"         preload="true" />
+		<library name="week5"         preload="true" />
+		<library name="week6"         preload="true" />
+		<library name="week7"         preload="true" />
+	</section>
+	
+	<section if="NO_PRELOAD_ALL">
+		<library name="songs"         preload="false" />
+		<library name="shared"        preload="false" />
+		<library name="week2"         preload="false" />
+		<library name="week3"         preload="false" />
+		<library name="week4"         preload="false" />
+		<library name="week5"         preload="false" />
+		<library name="week6"         preload="false" />
+		<library name="week7"         preload="false" />
+	</section>
+	
+	<assets path="assets/videos"        library="videos"        if="VIDEOS_ALLOWED"/>
+	<assets path="assets/songs"         library="songs"         exclude="*.ogg" if="web"/>
+	<assets path="assets/songs"         library="songs"         exclude="*.mp3" unless="web"/>
+	<assets path="assets/shared"        library="shared"        exclude="*.ogg" if="web"/>
+	<assets path="assets/shared"        library="shared"        exclude="*.mp3" unless="web"/>
+	<assets path="assets/week2"         library="week2"         exclude="*.ogg" if="web"/>
+	<assets path="assets/week2"         library="week2"         exclude="*.mp3" unless="web"/>
+	<assets path="assets/week3"         library="week3"         exclude="*.ogg" if="web"/>
+	<assets path="assets/week3"         library="week3"         exclude="*.mp3" unless="web"/>
+	<assets path="assets/week4"         library="week4"         exclude="*.ogg" if="web"/>
+	<assets path="assets/week4"         library="week4"         exclude="*.mp3" unless="web"/>
+	<assets path="assets/week5"         library="week5"         exclude="*.ogg" if="web"/>
+	<assets path="assets/week5"         library="week5"         exclude="*.mp3" unless="web"/>
+	<assets path="assets/week6"         library="week6"         exclude="*.ogg" if="web"/>
+	<assets path="assets/week6"         library="week6"         exclude="*.mp3" unless="web"/>
+	<assets path="assets/week7"         library="week7"         exclude="*.ogg" if="web"/>
+	<assets path="assets/week7"         library="week7"         exclude="*.mp3" unless="web"/>
+	
+	<section if="MODS_ALLOWED">
+		<assets path='example_mods' rename='mods' embed='false'/>
+	</section>
+	<assets path='art/readme3.txt' rename='Readme plzzzzz.txt' if="DEMO_BUILD"/>
+	<assets path='art/readme2.txt' rename='Readme plzzzzz.txt' unless="DEMO_BUILD"/>
+	<assets path='art/VAHChangelog.txt' rename='changelog (read for latest updates).txt'/>
+	<!-- <template path='mods' /> -->
+	
+	<!-- assets path="CHANGELOG.md" rename='changelog.txt' -->
+
+	<!-- NOTE FOR FUTURE SELF SINCE FONTS ARE ALWAYS YUCKY
+		TO FIX ONE OF THEM, I CONVERTED IT TO OTF. DUNNO IF YOU NEED TO
+		THEN UHHH I USED THE NAME OF THE FONT WITH SETFORMAT() ON THE TEXT!!!
+		NOT USING A DIRECT THING TO THE ASSET!!!
+	-->
+	<assets path="assets/fonts" />
+	<!-- _______________________________ Libraries ______________________________ -->
+
+	<haxelib name="flixel" />
+	<haxedev set='webgl' />
+
+	<!--In case you want to use the addons package-->
+	<haxelib name="flixel-addons" />
+	<haxelib name="hscript" />
+	<define name="hscriptPos" />
+
+	<!--In case you want to use the ui package-->
+	<haxelib name="flixel-ui" />
+	<haxelib name="linc_luajit" if="LUA_ALLOWED"/>
+	<haxelib name="hxCodec" if="VIDEOS_ALLOWED"/>
+	<haxelib name="faxe" if='switch'/>
+	<!--<haxelib name="polymod"/> -->
+	<haxelib name="discord_rpc" if="desktop"/>
+
+	<!-- Enables a terminal log prompt on debug builds -->
+	<haxelib name="hxcpp-debug-server" if="debug"/>
+
+	<!-- <haxelib name="markdown" /> -->
+	<!-- <haxelib name="HtmlParser" /> -->
+
+	<!--In case you want to use nape with flixel-->
+	<!--<haxelib name="nape-haxe4" />-->
+
+	<!-- ______________________________ Haxedefines _____________________________ -->
+
+	<!--Enable the Flixel core recording system-->
+	<!--<haxedef name="FLX_RECORD" />-->
+
+	<!--Disable the right and middle mouse buttons-->
+	<!-- <haxedef name="FLX_NO_MOUSE_ADVANCED" /> -->
+
+	<!--Disable the native cursor API on Flash-->
+	<!--<haxedef name="FLX_NO_NATIVE_CURSOR" />-->
+
+	<!--Optimise inputs, be careful you will get null errors if you don't use conditionals in your game-->
+	<!-- <haxedef name="FLX_NO_MOUSE" if="mobile" /> -->
+	<!-- <haxedef name="FLX_NO_KEYBOARD" if="mobile" /> -->
+	<!-- <haxedef name="FLX_NO_TOUCH" if="desktop" /> -->
+	<!--<haxedef name="FLX_NO_GAMEPAD" />-->
+
+	<!--Disable the Flixel core sound tray-->
+	<!--<haxedef name="FLX_NO_SOUND_TRAY" />-->
+
+	<!--Disable the Flixel sound management code-->
+	<!--<haxedef name="FLX_NO_SOUND_SYSTEM" />-->
+
+	<!--Disable the Flixel core focus lost screen-->
+	<haxedef name="FLX_NO_FOCUS_LOST_SCREEN" />
+
+	<!--Allow working memory greater than 1 Gig-->
+	<!--haxedef name="HXCPP_GC_BIG_BLOCKS"-->
+	
+	<!-- Show debug traces for hxCodec -->
+	<haxedef name="HXC_DEBUG_TRACE" if="debug" />
+	
+	<!--Disable the Flixel core debugger. Automatically gets set whenever you compile in release mode!-->
+	<haxedef name="FLX_NO_DEBUG" unless="debug" />
+
+	<!--Enable this for Nape release builds for a serious peformance improvement-->
+	<haxedef name="NAPE_RELEASE_BUILD" unless="debug" />
+	
+	<!--Used for Izzy Engine's crash handler-->
+	<haxedef name="HXCPP_CHECK_POINTER" if="CRASH_HANDLER" />
+	<haxedef name="HXCPP_STACK_LINE" if="CRASH_HANDLER" />
+
+	<!-- _________________________________ Custom _______________________________ -->
+
+	<!--Place custom nodes like icons here (higher priority to override the HaxeFlixel icon)-->
+	
+	<icon path="art/icon16.png" size='16'/>
+	<icon path="art/icon32.png" size='32'/>
+	<icon path="art/icon64.png" size='64'/>
+	<icon path="art/iconOG.png" />
+</project>

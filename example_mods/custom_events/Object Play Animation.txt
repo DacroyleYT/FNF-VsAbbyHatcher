@@ -1,0 +1,6 @@
+Used in Error and Toyboy (from Funk! Miss Nagatoro)
+Plays object animation
+
+Value 1: Object variable name/lua tag
+
+Value 2: animation name

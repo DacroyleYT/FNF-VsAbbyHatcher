@@ -1,0 +1,3 @@
+loadGraphic() but in Event form.
+Value 1 = target object
+Value 2 = object's new image

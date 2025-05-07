@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kailan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "FOR NOW, THIS IS THE KATIE\\nPLACEHOLDER. ANYWAYS..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kailan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You didn't miss a single note? I'm impressed."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abby-player",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "What else you got?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "amongus"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kailan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's not even funny."
+		}
+	]
+}

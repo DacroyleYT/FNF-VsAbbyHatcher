@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sunny_Assets.png"><SubTexture name="Sunny idle0000" x="1472" y="595" width="301" height="590" frameX="-247" frameY="-56" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny idle0001" x="1472" y="0" width="307" height="595" frameX="-242" frameY="-51" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny idle0002" x="878" y="641" width="313" height="600" frameX="-238" frameY="-46" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny idle0003" x="280" y="641" width="316" height="607" frameX="-235" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny idle0004" x="844" y="0" width="316" height="610" frameX="-235" frameY="-36" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny left0000" x="596" y="641" width="282" height="607" frameX="-210" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny left0001" x="0" y="641" width="280" height="608" frameX="-224" frameY="-38" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny down0000" x="1779" y="583" width="291" height="567" frameX="-231" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny down0001" x="1779" y="0" width="293" height="583" frameX="-225" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny up0000" x="0" y="0" width="270" height="641" frameX="-263" frameY="-5" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny up0001" x="270" y="0" width="277" height="631" frameX="-256" frameY="-15" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny right0000" x="1160" y="0" width="312" height="610" frameX="-259" frameY="-36" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sunny right0001" x="547" y="0" width="297" height="612" frameX="-248" frameY="-34" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

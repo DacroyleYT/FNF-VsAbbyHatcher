@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nickjrbg-new.png"><SubTexture name="bg idle0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0000" x="2560" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0001" x="2560" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0002" x="0" y="1400" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0003" x="2560" y="1400" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0004" x="0" y="2800" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0005" x="2560" y="2800" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0006" x="5120" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0007" x="5120" y="1400" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0008" x="5120" y="2800" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0009" x="0" y="4200" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0010" x="2560" y="4200" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0011" x="5120" y="4200" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0012" x="0" y="5600" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0013" x="2560" y="5600" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0014" x="5120" y="5600" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0015" x="7680" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0016" x="7680" y="1400" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0017" x="7680" y="2800" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0018" x="7680" y="4200" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="bg fade to blue0019" x="7680" y="5600" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

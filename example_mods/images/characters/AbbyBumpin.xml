@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AbbyBumpin.png">
+<SubTexture name="Abby Left dance0000" x="0" y="0" width="273" height="450" frameX="-208" frameY="-209" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby Left dance0001" x="273" y="0" width="273" height="459" frameX="-213" frameY="-200" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby Left dance0002" x="546" y="0" width="273" height="465" frameX="-216" frameY="-194" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby Left dance0003" x="819" y="0" width="274" height="470" frameX="-217" frameY="-189" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby Left dance0004" x="1093" y="0" width="274" height="474" frameX="-217" frameY="-185" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby Right dance0000" x="0" y="474" width="275" height="467" frameX="-224" frameY="-192" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby Right dance0001" x="275" y="474" width="278" height="468" frameX="-219" frameY="-191" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby Right dance0002" x="553" y="474" width="276" height="469" frameX="-218" frameY="-190" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby Right dance0003" x="829" y="474" width="276" height="473" frameX="-217" frameY="-186" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby Right dance0004" x="1093" y="0" width="274" height="474" frameX="-217" frameY="-185" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby cheer0000" x="1105" y="474" width="289" height="468" frameX="-218" frameY="-191" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby cheer0001" x="0" y="947" width="291" height="471" frameX="-217" frameY="-188" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby cheer0002" x="291" y="947" width="292" height="474" frameX="-217" frameY="-185" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby scared0000" x="583" y="947" width="274" height="474" frameX="-217" frameY="-185" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby scared0001" x="857" y="947" width="276" height="474" frameX="-217" frameY="-185" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby bfmissed0000" x="1133" y="947" width="274" height="474" frameX="-217" frameY="-185" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

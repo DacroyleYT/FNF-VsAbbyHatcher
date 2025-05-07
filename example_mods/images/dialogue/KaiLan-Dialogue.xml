@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="KaiLan-Dialogue.png"><SubTexture name="Kai-lan talk0000" x="236" y="0" width="234" height="488" frameX="-249" frameY="-138" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan talk0001" x="236" y="0" width="234" height="488" frameX="-249" frameY="-138" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan talk0002" x="490" y="489" width="230" height="485" frameX="-256" frameY="-141" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan talk0003" x="490" y="489" width="230" height="485" frameX="-256" frameY="-141" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan talk0004" x="720" y="489" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan talk0005" x="720" y="489" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan excited0000" x="0" y="0" width="236" height="489" frameX="-245" frameY="-137" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan excited0001" x="0" y="0" width="236" height="489" frameX="-245" frameY="-137" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan excited0002" x="969" y="0" width="233" height="486" frameX="-252" frameY="-140" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan excited0003" x="969" y="0" width="233" height="486" frameX="-252" frameY="-140" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan excited0004" x="949" y="489" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan excited0005" x="949" y="489" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan hey0000" x="470" y="0" width="266" height="487" frameX="-251" frameY="-139" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan hey0001" x="470" y="0" width="266" height="487" frameX="-251" frameY="-139" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan hey0002" x="0" y="489" width="259" height="486" frameX="-254" frameY="-140" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan hey0003" x="0" y="489" width="259" height="486" frameX="-254" frameY="-140" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan hey0004" x="1202" y="0" width="250" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan hey0005" x="1202" y="0" width="250" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan hey idle0000" x="1202" y="481" width="250" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan confused0000" x="736" y="0" width="233" height="487" frameX="-251" frameY="-139" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan confused0001" x="736" y="0" width="233" height="487" frameX="-251" frameY="-139" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan confused0002" x="259" y="489" width="231" height="486" frameX="-255" frameY="-140" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan confused0003" x="259" y="489" width="231" height="486" frameX="-255" frameY="-140" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan confused0004" x="1452" y="0" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan confused0005" x="1452" y="0" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan talk idle0000" x="720" y="489" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan excited idle0000" x="949" y="489" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Kai-lan confused idle0000" x="1452" y="0" width="229" height="481" frameX="-260" frameY="-144" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

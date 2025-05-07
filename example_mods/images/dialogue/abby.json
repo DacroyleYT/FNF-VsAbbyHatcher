@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-60,
+		-60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Abby excited",
+			"idle_name": "Abby excited idle"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Abby confused idle",
+			"loop_name": "Abby confused"
+		},
+		{
+			"loop_name": "Abby happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Abby happy idle",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Abby shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Abby shocked idle",
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Abby HEY!!",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Abby HEY!! idle",
+			"anim": "hey",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "abby-v4-dialog"
+}

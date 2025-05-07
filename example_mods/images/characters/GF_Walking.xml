@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GF_Walking.png">
+<SubTexture name="GF walks0000" x="0" y="0" width="726" height="1061" frameX="-162" frameY="-17" frameWidth="1000" frameHeight="1100" />
+<SubTexture name="GF walks0001" x="726" y="0" width="723" height="1069" frameX="-164" frameY="-17" frameWidth="1000" frameHeight="1100" />
+<SubTexture name="GF walks0002" x="1449" y="0" width="712" height="1075" frameX="-175" frameY="-18" frameWidth="1000" frameHeight="1100" />
+<SubTexture name="GF walks0003" x="0" y="1075" width="702" height="1058" frameX="-186" frameY="-17" frameWidth="1000" frameHeight="1100" />
+<SubTexture name="GF walks0004" x="702" y="1075" width="696" height="1046" frameX="-192" frameY="-18" frameWidth="1000" frameHeight="1100" />
+<SubTexture name="GF walks0005" x="1398" y="1075" width="687" height="1039" frameX="-201" frameY="-19" frameWidth="1000" frameHeight="1100" />
+<SubTexture name="GF walks0006" x="0" y="2133" width="682" height="1054" frameX="-206" frameY="-19" frameWidth="1000" frameHeight="1100" />
+<SubTexture name="GF walks0007" x="682" y="2133" width="691" height="1057" frameX="-197" frameY="-18" frameWidth="1000" frameHeight="1100" />
+<SubTexture name="GF walks0008" x="1373" y="2133" width="697" height="1076" frameX="-191" frameY="-17" frameWidth="1000" frameHeight="1100" />
+<SubTexture name="GF walks0009" x="0" y="3209" width="708" height="1068" frameX="-180" frameY="-18" frameWidth="1000" frameHeight="1100" />
+</TextureAtlas>

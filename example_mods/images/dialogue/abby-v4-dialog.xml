@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abby-v4-dialog.png"><SubTexture name="Abby happy0000" x="0" y="1369" width="368" height="681" frameX="-184" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby happy0001" x="0" y="1369" width="368" height="681" frameX="-184" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby happy0002" x="1079" y="1369" width="358" height="678" frameX="-195" frameY="-31" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby happy0003" x="1079" y="1369" width="358" height="678" frameX="-195" frameY="-31" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby happy0004" x="362" y="686" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby happy0005" x="362" y="686" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby excited0000" x="1072" y="0" width="352" height="684" frameX="-198" frameY="-25" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby excited0001" x="1072" y="0" width="352" height="684" frameX="-198" frameY="-25" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby excited0002" x="1776" y="682" width="350" height="677" frameX="-200" frameY="-32" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby excited0003" x="1776" y="682" width="350" height="677" frameX="-200" frameY="-32" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby excited0004" x="714" y="686" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby excited0005" x="714" y="686" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0000" x="0" y="0" width="359" height="686" frameX="-197" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0001" x="0" y="0" width="359" height="686" frameX="-197" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0002" x="359" y="0" width="356" height="686" frameX="-200" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0003" x="359" y="0" width="356" height="686" frameX="-200" frameY="-23" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0004" x="1424" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0005" x="1424" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby confused0000" x="715" y="0" width="357" height="685" frameX="-192" frameY="-24" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby confused0001" x="715" y="0" width="357" height="685" frameX="-192" frameY="-24" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby confused0002" x="368" y="1369" width="355" height="681" frameX="-195" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby confused0003" x="368" y="1369" width="355" height="681" frameX="-195" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby confused0004" x="1424" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby confused0005" x="1424" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby shocked0000" x="0" y="686" width="362" height="683" frameX="-186" frameY="-26" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby shocked0001" x="0" y="686" width="362" height="683" frameX="-186" frameY="-26" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby shocked0002" x="723" y="1369" width="356" height="681" frameX="-195" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby shocked0003" x="723" y="1369" width="356" height="681" frameX="-195" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby shocked0004" x="1776" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby shocked0005" x="1776" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby happy idle0000" x="362" y="686" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby excited idle0000" x="714" y="686" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby confused idle0000" x="1424" y="682" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby shocked idle0000" x="1776" y="0" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!! idle0000" x="1066" y="686" width="352" height="682" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

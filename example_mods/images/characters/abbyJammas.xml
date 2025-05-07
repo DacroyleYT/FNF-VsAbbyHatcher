@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abbyJammas.png"><SubTexture name="Abby idle0000" x="1837" y="673" width="281" height="672" frameX="-232" frameY="-38" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby idle0001" x="289" y="705" width="285" height="681" frameX="-224" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby idle0002" x="0" y="705" width="289" height="682" frameX="-216" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby idle0003" x="597" y="0" width="295" height="683" frameX="-208" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby idle0004" x="892" y="0" width="297" height="683" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby left0000" x="1540" y="0" width="297" height="678" frameX="-176" frameY="-34" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby left0001" x="1837" y="0" width="303" height="673" frameX="-188" frameY="-38" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby down0000" x="0" y="1387" width="292" height="655" frameX="-210" frameY="-55" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby down0001" x="1540" y="678" width="295" height="668" frameX="-207" frameY="-42" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby up0000" x="0" y="0" width="299" height="705" frameX="-199" frameY="-7" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby up0001" x="299" y="0" width="298" height="690" frameX="-201" frameY="-21" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby right0000" x="574" y="705" width="293" height="679" frameX="-259" frameY="-33" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby right0001" x="867" y="705" width="293" height="679" frameX="-247" frameY="-32" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0000" x="1160" y="705" width="365" height="679" frameX="-194" frameY="-31" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby HEY!!0001" x="1189" y="0" width="351" height="683" frameX="-204" frameY="-27" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

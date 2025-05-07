@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "hotelroof",
+		"player1": "bf",
+		"player2": "abby-geared",
+		"player3": null,
+		"events": [
+			[
+				6125,
+				[
+					[
+						"Image Flash",
+						"TheCanoe",
+						"99"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "bozzly-dancin",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Canoe"
+	}
+}

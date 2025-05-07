@@ -1,0 +1,10 @@
+function onCreate()
+    makeLuaSprite("bg", "hotelLobby/bg", -640, -360)
+    makeLuaSprite("floor", "hotelLobby/floor", -640, -360)
+    makeLuaSprite("balcony", "hotelLobby/balcony", -640, -360)
+    setScrollFactor("bg", 0.9, 1)
+    setScrollFactor("balcony", 0.95, 1)
+    addLuaSprite("bg", false)
+    addLuaSprite("balcony", false)
+    addLuaSprite("floor", false)
+end

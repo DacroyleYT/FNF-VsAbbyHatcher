@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abbyDancin.png"><SubTexture name="Abby danceLeft0000" x="314" y="1361" width="322" height="653" frameX="-165" frameY="-56" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby danceLeft0001" x="0" y="1361" width="314" height="663" frameX="-178" frameY="-46" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby danceLeft0002" x="1568" y="0" width="302" height="672" frameX="-197" frameY="-37" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby danceLeft0003" x="298" y="682" width="301" height="678" frameX="-200" frameY="-31" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby danceLeft0004" x="0" y="0" width="301" height="682" frameX="-200" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby danceRight0000" x="1870" y="0" width="313" height="670" frameX="-204" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby danceRight0001" x="599" y="682" width="308" height="678" frameX="-203" frameY="-31" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby danceRight0002" x="905" y="0" width="305" height="680" frameX="-200" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby danceRight0003" x="602" y="0" width="303" height="681" frameX="-200" frameY="-28" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby danceRight0004" x="0" y="0" width="301" height="682" frameX="-200" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby cheer0000" x="907" y="682" width="366" height="677" frameX="-180" frameY="-32" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby cheer0001" x="1210" y="0" width="358" height="679" frameX="-192" frameY="-30" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby scared0000" x="301" y="0" width="301" height="682" frameX="-200" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Abby scared0001" x="0" y="682" width="298" height="679" frameX="-200" frameY="-30" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

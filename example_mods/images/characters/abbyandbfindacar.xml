@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abbyandbfindacar.png"><SubTexture name="Duo idle0000" x="0" y="1616" width="462" height="526" frameX="-48" frameY="-31" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo idle0001" x="1412" y="531" width="465" height="528" frameX="-45" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo idle0002" x="0" y="1088" width="468" height="528" frameX="-42" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo idle0003" x="468" y="1088" width="471" height="528" frameX="-39" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo idle0004" x="468" y="1088" width="471" height="528" frameX="-39" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo Abby right0000" x="471" y="550" width="499" height="533" frameX="-39" frameY="-26" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo Abby right0001" x="1412" y="0" width="486" height="531" frameX="-39" frameY="-26" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo Abby left0000" x="462" y="1616" width="454" height="522" frameX="-39" frameY="-37" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo Abby left0001" x="916" y="1616" width="458" height="520" frameX="-39" frameY="-37" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo Abby up0000" x="0" y="0" width="471" height="550" frameX="-39" frameY="-2" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo Abby up0001" x="0" y="550" width="471" height="538" frameX="-39" frameY="-14" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo Abby down0000" x="1861" y="1616" width="487" height="512" frameX="-39" frameY="-49" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo Abby down0001" x="1374" y="1616" width="487" height="514" frameX="-39" frameY="-41" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo BF left0000" x="939" y="1088" width="507" height="528" frameX="-3" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo BF left0001" x="1898" y="0" width="493" height="528" frameX="-17" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo BF down0000" x="471" y="0" width="470" height="546" frameX="-40" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo BF down0001" x="941" y="0" width="471" height="539" frameX="-39" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo BF up0000" x="1898" y="528" width="467" height="528" frameX="-43" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo BF up0001" x="1898" y="1056" width="466" height="528" frameX="-44" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo BF right0000" x="970" y="550" width="442" height="528" frameX="-68" frameY="-27" frameWidth="720" frameHeight="720" />
+<SubTexture name="Duo BF right0001" x="1446" y="1088" width="450" height="528" frameX="-60" frameY="-27" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

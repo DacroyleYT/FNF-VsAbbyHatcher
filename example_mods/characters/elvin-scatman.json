@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "Elvin idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Elvin left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Elvin down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Elvin up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Elvin right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/elvin_scatman",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "elvin",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		227,
+		0
+	],
+	"camera_position": [
+		-140,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Abby idle",
+	"idle_anim": "Abby idle",
+	"position": [
+		264,
+		168
+	],
+	"scale": 0.5,
+	"image": "abby_menu"
+}
